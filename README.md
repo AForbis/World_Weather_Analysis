@@ -8,13 +8,13 @@
   
   - Results
   
-  ![](Del1_df.png)
+      ![](Del1_df.png)
   
   - Files
   
-  [Weather_Database.ipynb](Weather_Database.ipynb)
+      [Weather_Database.ipynb](Weather_Database.ipynb)
   
-  [WeatherPy_Database.csv](WeatherPy_Database.csv)
+      [WeatherPy_Database.csv](WeatherPy_Database.csv)
   
   
 ## 2) Deliverable #2 - Create a Customer Travel Destinations Map
